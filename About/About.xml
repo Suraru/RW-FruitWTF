@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Clean Fruit</name>
+  <author>Suraru</author>
+<packageId>sura.CleanFruit</packageId>
+<supportedVersions>
+	<li>1.4</li>
+</supportedVersions>
+<description>Stops raw fruit from being a dangerous food</description>
+</ModMetaData>
